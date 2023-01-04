@@ -1,2 +1,0 @@
-Kilometre is not the SI unit of length.
-It is metre.
